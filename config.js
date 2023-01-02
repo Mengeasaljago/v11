@@ -18,8 +18,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285863380722','6283844909187','6281311735355','6281386530128']
-global.premium = ['6283844909187']
+global.owner = ['6282393734303','6282393734303','6281311735355','6281386530128']
+global.premium = ['6282393734303']
 global.packname = 'BAGAS X RANNZ'
 global.author = 'REAL NO FEK FEK!!!'
 global.wlcm = []
